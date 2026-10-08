@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "NodeJS backend for the app/webapp",
+  "keywords": [
+    "time",
+    "productivity",
+    "nodejs",
+    "vuejs",
+    "node",
+    "npm"
+  ],
+  "homepage": "https://github.com/lifewhater/weekly-time#readme",
+  "bugs": {
+    "url": "https://github.com/lifewhater/weekly-time/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifewhater/weekly-time.git"
+  },
+  "license": "ISC",
+  "author": "lifewhater",
+  "type": "model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
